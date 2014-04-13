@@ -11,6 +11,7 @@ This experiment will generate sine wave data into a csv file, then run a swarm a
 ## Requirements for plotting
 
 * matplotlib
+* tk
 
 You have to have matplotlib installed for the `NuPICPlotOutput` class to work. If you don't, you can replace it with `NuPICFileOutput`, which will write the output to a file instead.
 
